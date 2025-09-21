@@ -1,0 +1,15 @@
+{
+    "first_name": "Olivia",
+    "last_name": "John",
+    "phone": "(555) 123-4567",
+    "email": "olivia.perry@example.com",
+    "address": "123 Maple Street, Springfield, IL 62704, USA",
+    "business": "ABC Corp",
+    "street": "123 Main Street",
+    "city": "Springfield",
+    "country": "United States",
+    "owner": "Devon Lane",
+    "tags": ["Shared Contact", "VIP", "+15"],
+    "avatar": "https://i.pravatar.cc/100"
+  }
+  

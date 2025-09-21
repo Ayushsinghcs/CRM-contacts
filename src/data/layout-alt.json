@@ -1,0 +1,14 @@
+{
+  "sections": [
+    { 
+      "id": "contact_info", 
+      "title": "Contact Information", 
+      "component": "ContactFields" 
+    },
+    { 
+      "id": "notes", 
+      "title": "Activity Timeline", 
+      "component": "Notes" 
+    }
+  ]
+}

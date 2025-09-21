@@ -1,0 +1,17 @@
+{
+  "first_name": "Sarah",
+  "last_name": "Johnson",
+  "email": "sarah.johnson@techcorp.com",
+  "phone": "+1 (555) 123-4567",
+  "birthday": "1985-12-03",
+  "company_name": "TechCorp Solutions",
+  "job_title": "Product Manager",
+  "industry": "Technology",
+  "company_size": "100-500",
+  "lead_source": "Referral",
+  "priority": "Medium",
+  "is_vip": false,
+  "tags": ["Warm Lead", "SMB", "Product Interest"],
+  "last_contact": "2024-09-20",
+  "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face"
+}

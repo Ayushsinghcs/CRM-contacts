@@ -1,0 +1,27 @@
+{
+    "columns": [
+      {
+        "id": "left",
+        "width": "300px",
+        "components": [
+          { "type": "SidebarHeader" },
+          { "type": "ProfileCard" },
+          { "type": "Tags" },
+          { "type": "Tabs", "tabs": ["All Fields", "DND", "Actions"] },
+          { "type": "SearchAndFilter" },
+          { "type": "CollapsibleSection", "props": { "title": "Contact", "fields": "contactFields" } },
+          { "type": "CollapsibleSection", "props": { "title": "Additional Info", "fields": "additionalFields" } }
+        ]
+      },
+      {
+        "id": "main",
+        "components": [{ "type": "ConversationsPanel" }]
+      },
+      {
+        "id": "right",
+        "width": "350px",
+        "components": [{ "type": "NotesSidebar" }]
+      }
+    ]
+  }
+  

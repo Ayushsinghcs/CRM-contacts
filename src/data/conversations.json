@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "subject": "Set up a new time to follow up on the mail chain issue...",
+      "sender": "Olivia John",
+      "to": "Me",
+      "time": "5 min ago",
+      "trackLink": "https://tracking.example.com/123",
+      "message": "Hey John,\n\nYour order has reached your city. Click the link above to track it.",
+      "reply": "Olivia please let me know"
+    },
+    {
+      "id": 2,
+      "subject": "Follow up on premium plan",
+      "sender": "Olivia John",
+      "to": "Me",
+      "time": "1 hour ago",
+      "message": "Customer asked about upgrading to premium monthly grooming plan.\n\n Customer asked about upgrading to premium monthly grooming plan. Customer asked about upgrading to premium monthly grooming plan."
+    }
+  ]
+  
